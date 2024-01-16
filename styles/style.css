@@ -57,7 +57,7 @@ body {
 /* banner styles */
 .banner {
   background-image: url("../Images/Group\ 13\ \(1\)\ \(1\).png");
-  border-radius: ;
+  border-radius: 16px;
   width: 1170px;
   height: 500px;
   margin: 0 auto;
