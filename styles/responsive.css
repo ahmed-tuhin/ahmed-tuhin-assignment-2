@@ -3,19 +3,6 @@
     .navbar{
         flex-direction: column;
     }
-    .nav-container{
-        flex-direction: column;
-    }
-    .items-container{
-        flex-direction: column;
-        gap: 10px;
-    }
-    .nav-container img{
-        width: 100%;
-    }
-    .banner background-image{
-        width: 100%;
-    }
 }
 
 
