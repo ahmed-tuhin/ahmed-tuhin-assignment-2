@@ -1,4 +1,5 @@
 /* shared styles */
+
 @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800&display=swap");
 
 body {
@@ -12,6 +13,7 @@ body {
   /* border: 2px solid saddlebrown; */
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 .nav-container {
   /* border: 2px solid tomato; */
@@ -35,7 +37,7 @@ body {
   font-size: 36px;
   font-weight: 800;
 }
-.items-container {
+.items-container{
   /* border: 2px solid yellow; */
   width: 50%;
   display: flex;
@@ -101,4 +103,5 @@ body {
   font-size: 16px;
   font-weight: 400;
   margin: 0px auto;
+  
 }

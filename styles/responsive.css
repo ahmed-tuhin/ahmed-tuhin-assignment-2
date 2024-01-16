@@ -3,6 +3,38 @@
     .navbar{
         flex-direction: column;
     }
+    .items-container{
+        flex-direction: column;
+        gap: 5px;
+        margin-bottom: 20px;
+    }
+    .nav-container{
+        flex-direction: column;
+        width: 100%;
+        
+    }
+    .banner-heading{
+        padding-top: 32px;
+        font-size: 22px;
+    }
+    .banner{
+        width: 100%;
+        
+    }
+    .banner-option{
+        flex-direction: column;
+        width: 90%;
+        gap: 5px;
+        
+        
+    }
+    .banner-description{
+        font-size: 14px;
+        width: 310px;
+        margin-bottom: 20px;
+    }
+
+
 }
 
 
